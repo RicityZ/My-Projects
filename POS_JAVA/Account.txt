@@ -1,0 +1,7 @@
+ID:Name:Username:Password:Permission
+S001:fern:staff1:stafffern:staff
+S003:staff3:staff3:staff003:staff
+M001:fern:manager:managerfern:manager
+S002:mhon:staff2:staff2:staff
+S004:winner:staff4:4:staff
+S005:sttaff5:sttaff5:5:staff

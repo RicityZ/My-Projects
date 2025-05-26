@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kitti\\source\\repos\\wellhospital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|c:\\users\\kitti\\source\\repos\\wellhospital\\wellhospital\\34recvivefrom.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|solutionrelative:wellhospital\\34recvivefrom.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\3_1itemanddrugmanagefrom.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|solutionrelative:wellhospital\\3_1itemanddrugmanagefrom.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\5reqfrom.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|solutionrelative:wellhospital\\5reqfrom.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\2_0patientform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|solutionrelative:wellhospital\\2_0patientform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\1a2_workexpform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|solutionrelative:wellhospital\\1a2_workexpform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\1a1_qualiform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|solutionrelative:wellhospital\\1a1_qualiform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\0_1homepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|solutionrelative:wellhospital\\0_1homepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\0_loginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|solutionrelative:wellhospital\\0_loginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\1a2_workexpform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|solutionrelative:wellhospital\\1a2_workexpform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\1a1_qualiform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|solutionrelative:wellhospital\\1a1_qualiform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\1_staffform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|solutionrelative:wellhospital\\1_staffform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\3supfrom.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|solutionrelative:wellhospital\\3supfrom.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\32orderfrom.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|solutionrelative:wellhospital\\32orderfrom.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\33supstatus.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|solutionrelative:wellhospital\\33supstatus.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\4suplierfrom.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|solutionrelative:wellhospital\\4suplierfrom.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\5_1requisitionitem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|solutionrelative:wellhospital\\5_1requisitionitem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\52reqstatusfrom.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|solutionrelative:wellhospital\\52reqstatusfrom.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\53reqrecvivefrom.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|solutionrelative:wellhospital\\53reqrecvivefrom.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\54reqrefrom.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|solutionrelative:wellhospital\\54reqrefrom.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\61dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|solutionrelative:wellhospital\\61dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\1c_staffreport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|solutionrelative:wellhospital\\1c_staffreport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\2_3appiontment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{820D568D-1226-4291-8A65-8BD244C974A5}|wellhospital\\wellhospital.vbproj|solutionrelative:wellhospital\\2_3appiontment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 166,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 335,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "1A1_QualiForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\1A1_QualiForm.vb",
+              "RelativeDocumentMoniker": "wellhospital\\1A1_QualiForm.vb",
+              "ToolTip": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\1A1_QualiForm.vb [Design]",
+              "RelativeToolTip": "wellhospital\\1A1_QualiForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-07T21:17:48.129Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "2_3appiontment.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\2_3appiontment.vb",
+              "RelativeDocumentMoniker": "wellhospital\\2_3appiontment.vb",
+              "ToolTip": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\2_3appiontment.vb [Design]",
+              "RelativeToolTip": "wellhospital\\2_3appiontment.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-08T17:00:00.219Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "1A1_QualiForm.vb",
+              "DocumentMoniker": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\1A1_QualiForm.vb",
+              "RelativeDocumentMoniker": "wellhospital\\1A1_QualiForm.vb",
+              "ToolTip": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\1A1_QualiForm.vb",
+              "RelativeToolTip": "wellhospital\\1A1_QualiForm.vb",
+              "ViewState": "AgIAAEsAAAAAAAAAAADwv14AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-11T00:16:12.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "1A2_WorkExpForm.vb",
+              "DocumentMoniker": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\1A2_WorkExpForm.vb",
+              "RelativeDocumentMoniker": "wellhospital\\1A2_WorkExpForm.vb",
+              "ToolTip": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\1A2_WorkExpForm.vb",
+              "RelativeToolTip": "wellhospital\\1A2_WorkExpForm.vb",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwC8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-10T23:54:52.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "3SupFrom.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\3SupFrom.vb",
+              "RelativeDocumentMoniker": "wellhospital\\3SupFrom.vb",
+              "ToolTip": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\3SupFrom.vb [Design]",
+              "RelativeToolTip": "wellhospital\\3SupFrom.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-09T19:32:04.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "53ReqRecviveFrom.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\53ReqRecviveFrom.vb",
+              "RelativeDocumentMoniker": "wellhospital\\53ReqRecviveFrom.vb",
+              "ToolTip": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\53ReqRecviveFrom.vb [Design]",
+              "RelativeToolTip": "wellhospital\\53ReqRecviveFrom.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-09T19:31:54.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "54ReqReFrom.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\54ReqReFrom.vb",
+              "RelativeDocumentMoniker": "wellhospital\\54ReqReFrom.vb",
+              "ToolTip": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\54ReqReFrom.vb [Design]",
+              "RelativeToolTip": "wellhospital\\54ReqReFrom.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-09T19:31:51.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "5reqFrom.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\5reqFrom.vb",
+              "RelativeDocumentMoniker": "wellhospital\\5reqFrom.vb",
+              "ToolTip": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\5reqFrom.vb [Design]",
+              "RelativeToolTip": "wellhospital\\5reqFrom.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-09T19:30:58.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "61Dashboard.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\61Dashboard.vb",
+              "RelativeDocumentMoniker": "wellhospital\\61Dashboard.vb",
+              "ToolTip": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\61Dashboard.vb [Design]",
+              "RelativeToolTip": "wellhospital\\61Dashboard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-09T19:30:57.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "1C_StaffReport.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\1C_StaffReport.vb",
+              "RelativeDocumentMoniker": "wellhospital\\1C_StaffReport.vb",
+              "ToolTip": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\1C_StaffReport.vb [Design]",
+              "RelativeToolTip": "wellhospital\\1C_StaffReport.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-09T17:54:54.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "1_StaffForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\1_StaffForm.vb",
+              "RelativeDocumentMoniker": "wellhospital\\1_StaffForm.vb",
+              "ToolTip": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\1_StaffForm.vb [Design]",
+              "RelativeToolTip": "wellhospital\\1_StaffForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-09T17:54:53.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "1A2_WorkExpForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\1A2_WorkExpForm.vb",
+              "RelativeDocumentMoniker": "wellhospital\\1A2_WorkExpForm.vb",
+              "ToolTip": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\1A2_WorkExpForm.vb [Design]",
+              "RelativeToolTip": "wellhospital\\1A2_WorkExpForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-09T17:54:48.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "0_loginform.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\0_loginform.vb",
+              "RelativeDocumentMoniker": "wellhospital\\0_loginform.vb",
+              "ToolTip": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\0_loginform.vb [Design]",
+              "RelativeToolTip": "wellhospital\\0_loginform.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-09T17:54:44.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "0_1homepage.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\0_1homepage.vb",
+              "RelativeDocumentMoniker": "wellhospital\\0_1homepage.vb",
+              "ToolTip": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\0_1homepage.vb [Design]",
+              "RelativeToolTip": "wellhospital\\0_1homepage.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-09T17:54:40.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "2_0PatientForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\2_0PatientForm.vb",
+              "RelativeDocumentMoniker": "wellhospital\\2_0PatientForm.vb",
+              "ToolTip": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\2_0PatientForm.vb [Design]",
+              "RelativeToolTip": "wellhospital\\2_0PatientForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-09T17:54:07.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "34RecviveFrom.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\34RecviveFrom.vb",
+              "RelativeDocumentMoniker": "wellhospital\\34RecviveFrom.vb",
+              "ToolTip": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\34RecviveFrom.vb [Design]",
+              "RelativeToolTip": "wellhospital\\34RecviveFrom.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-09T13:49:15.103Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "3_1ItemANDdrugManageFrom.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\3_1ItemANDdrugManageFrom.vb",
+              "RelativeDocumentMoniker": "wellhospital\\3_1ItemANDdrugManageFrom.vb",
+              "ToolTip": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\3_1ItemANDdrugManageFrom.vb [Design]",
+              "RelativeToolTip": "wellhospital\\3_1ItemANDdrugManageFrom.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-09T13:49:05.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "32OrderFrom.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\32OrderFrom.vb",
+              "RelativeDocumentMoniker": "wellhospital\\32OrderFrom.vb",
+              "ToolTip": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\32OrderFrom.vb [Design]",
+              "RelativeToolTip": "wellhospital\\32OrderFrom.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-09T13:49:04.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "33supStatus.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\33supStatus.vb",
+              "RelativeDocumentMoniker": "wellhospital\\33supStatus.vb",
+              "ToolTip": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\33supStatus.vb [Design]",
+              "RelativeToolTip": "wellhospital\\33supStatus.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-09T13:49:03.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "5_1Requisitionitem.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\5_1Requisitionitem.vb",
+              "RelativeDocumentMoniker": "wellhospital\\5_1Requisitionitem.vb",
+              "ToolTip": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\5_1Requisitionitem.vb [Design]",
+              "RelativeToolTip": "wellhospital\\5_1Requisitionitem.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-09T13:49:01.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "52ReqStatusFrom.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\52ReqStatusFrom.vb",
+              "RelativeDocumentMoniker": "wellhospital\\52ReqStatusFrom.vb",
+              "ToolTip": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\52ReqStatusFrom.vb [Design]",
+              "RelativeToolTip": "wellhospital\\52ReqStatusFrom.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-09T13:49:00.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "4supLIERfrom.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\4supLIERfrom.vb",
+              "RelativeDocumentMoniker": "wellhospital\\4supLIERfrom.vb",
+              "ToolTip": "C:\\Users\\kitti\\source\\repos\\wellhospital\\wellhospital\\4supLIERfrom.vb [Design]",
+              "RelativeToolTip": "wellhospital\\4supLIERfrom.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-09T13:48:48.042Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 65,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

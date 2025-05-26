@@ -1,0 +1,41 @@
+{
+  "name": "speccompare",
+  "license": "0BSD",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^14.0.4",
+    "@react-native-community/checkbox": "^0.5.17",
+    "@react-native-community/cli": "latest",
+    "@react-native-picker/picker": "^2.11.0",
+    "@react-navigation/bottom-tabs": "^7.3.3",
+    "@react-navigation/elements": "^2.3.1",
+    "@react-navigation/native": "^7.0.19",
+    "@react-navigation/native-stack": "^7.3.3",
+    "expo": "~52.0.40",
+    "expo-linear-gradient": "~14.0.2",
+    "expo-sensors": "~14.0.2",
+    "expo-status-bar": "~2.0.1",
+    "react": "18.3.1",
+    "react-native": "0.76.7",
+    "react-native-dropdown-picker": "^5.4.6",
+    "react-native-gesture-handler": "~2.20.2",
+    "react-native-linear-gradient": "^2.8.3",
+    "react-native-reanimated": "~3.16.1",
+    "react-native-safe-area-context": "^4.14.1",
+    "react-native-screens": "~4.4.0",
+    "react-native-shake": "^6.0.0-beta.3",
+    "react-native-vector-icons": "^10.2.0",
+    "expo-image-picker": "~16.0.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}

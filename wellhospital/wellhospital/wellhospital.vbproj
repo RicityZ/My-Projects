@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{820D568D-1226-4291-8A65-8BD244C974A5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>wellhospital.My.MyApplication</StartupObject>
+    <RootNamespace>wellhospital</RootNamespace>
+    <AssemblyName>wellhospital</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>wellhospital.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>wellhospital.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="0_1homepage.Designer.vb">
+      <DependentUpon>0_1homepage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="0_1homepage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="0_loginform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="0_loginform.Designer.vb">
+      <DependentUpon>0_loginform.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_StaffForm.Designer.vb">
+      <DependentUpon>1_StaffForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1_StaffForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1A_ADDSTAFF.Designer.vb">
+      <DependentUpon>1A_ADDSTAFF.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1A_ADDSTAFF.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1C_StaffReport.Designer.vb">
+      <DependentUpon>1C_StaffReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1C_StaffReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_1AddPatient.Designer.vb">
+      <DependentUpon>2_1AddPatient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="2_1AddPatient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_3appiontment.Designer.vb">
+      <DependentUpon>2_3appiontment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="2_3appiontment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_6diagnosticForm.Designer.vb">
+      <DependentUpon>2_6diagnosticForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="2_6diagnosticForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_7DrugandsubForm.Designer.vb">
+      <DependentUpon>2_7DrugandsubForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="2_7DrugandsubForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="61Dashboard.Designer.vb">
+      <DependentUpon>61Dashboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="61Dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HOSPITALDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HOSPITALDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="1B_ManangeForm.Designer.vb">
+      <DependentUpon>1B_ManangeForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1B_ManangeForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_4localdoctorform.Designer.vb">
+      <DependentUpon>2_4localdoctorform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="2_4localdoctorform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3_1ItemANDdrugManageFrom.Designer.vb">
+      <DependentUpon>3_1ItemANDdrugManageFrom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="3_1ItemANDdrugManageFrom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="1A1_QualiForm.Designer.vb">
+      <DependentUpon>1A1_QualiForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1A1_QualiForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1A2_WorkExpForm.Designer.vb">
+      <DependentUpon>1A2_WorkExpForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1A2_WorkExpForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_0PatientForm.Designer.vb">
+      <DependentUpon>2_0PatientForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="2_0PatientForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_2SearchPatient.Designer.vb">
+      <DependentUpon>2_2SearchPatient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="2_2SearchPatient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_5nextofkinForm.Designer.vb">
+      <DependentUpon>2_5nextofkinForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="2_5nextofkinForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_8PTINWARDREPORTFROM.Designer.vb">
+      <DependentUpon>2_8PTINWARDREPORTFROM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="2_8PTINWARDREPORTFROM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_9waittinglist.Designer.vb">
+      <DependentUpon>2_9waittinglist.vb</DependentUpon>
+    </Compile>
+    <Compile Include="2_9waittinglist.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_91outPTfrom.Designer.vb">
+      <DependentUpon>2_91outPTfrom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="2_91outPTfrom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1d_WardAllowcate.Designer.vb">
+      <DependentUpon>1d_WardAllowcate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1d_WardAllowcate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3SupFrom.Designer.vb">
+      <DependentUpon>3SupFrom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="3SupFrom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="32OrderFrom.Designer.vb">
+      <DependentUpon>32OrderFrom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="32OrderFrom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="33supStatus.Designer.vb">
+      <DependentUpon>33supStatus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="33supStatus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="34RecviveFrom.Designer.vb">
+      <DependentUpon>34RecviveFrom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="34RecviveFrom.vb" />
+    <Compile Include="4supLIERfrom.Designer.vb">
+      <DependentUpon>4supLIERfrom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="4supLIERfrom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="5reqFrom.Designer.vb">
+      <DependentUpon>5reqFrom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="5reqFrom.vb" />
+    <Compile Include="5_1Requisitionitem.Designer.vb">
+      <DependentUpon>5_1Requisitionitem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="5_1Requisitionitem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="52ReqStatusFrom.Designer.vb">
+      <DependentUpon>52ReqStatusFrom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="52ReqStatusFrom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="53ReqRecviveFrom.Designer.vb">
+      <DependentUpon>53ReqRecviveFrom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="53ReqRecviveFrom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="54ReqReFrom.Designer.vb">
+      <DependentUpon>54ReqReFrom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="54ReqReFrom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="0_1homepage.resx">
+      <DependentUpon>0_1homepage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="0_loginform.resx">
+      <DependentUpon>0_loginform.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1_StaffForm.resx">
+      <DependentUpon>1_StaffForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1A_ADDSTAFF.resx">
+      <DependentUpon>1A_ADDSTAFF.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1A1_QualiForm.resx">
+      <DependentUpon>1A1_QualiForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1A2_WorkExpForm.resx">
+      <DependentUpon>1A2_WorkExpForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1B_ManangeForm.resx">
+      <DependentUpon>1B_ManangeForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1C_StaffReport.resx">
+      <DependentUpon>1C_StaffReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_1AddPatient.resx">
+      <DependentUpon>2_1AddPatient.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_2SearchPatient.resx">
+      <DependentUpon>2_2SearchPatient.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_3appiontment.resx">
+      <DependentUpon>2_3appiontment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_4localdoctorform.resx">
+      <DependentUpon>2_4localdoctorform.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_6diagnosticForm.resx">
+      <DependentUpon>2_6diagnosticForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_7DrugandsubForm.resx">
+      <DependentUpon>2_7DrugandsubForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_8PTINWARDREPORTFROM.resx">
+      <DependentUpon>2_8PTINWARDREPORTFROM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_91outPTfrom.resx">
+      <DependentUpon>2_91outPTfrom.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3_1ItemANDdrugManageFrom.resx">
+      <DependentUpon>3_1ItemANDdrugManageFrom.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="4supLIERfrom.resx">
+      <DependentUpon>4supLIERfrom.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="54ReqReFrom.resx">
+      <DependentUpon>54ReqReFrom.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="5reqFrom.resx">
+      <DependentUpon>5reqFrom.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="61Dashboard.resx">
+      <DependentUpon>61Dashboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_0PatientForm.resx">
+      <DependentUpon>2_0PatientForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_5nextofkinForm.resx">
+      <DependentUpon>2_5nextofkinForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_9waittinglist.resx">
+      <DependentUpon>2_9waittinglist.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1d_WardAllowcate.resx">
+      <DependentUpon>1d_WardAllowcate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3SupFrom.resx">
+      <DependentUpon>3SupFrom.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="32OrderFrom.resx">
+      <DependentUpon>32OrderFrom.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="33supStatus.resx">
+      <DependentUpon>33supStatus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="34RecviveFrom.resx">
+      <DependentUpon>34RecviveFrom.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="5_1Requisitionitem.resx">
+      <DependentUpon>5_1Requisitionitem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="52ReqStatusFrom.resx">
+      <DependentUpon>52ReqStatusFrom.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="53ReqRecviveFrom.resx">
+      <DependentUpon>53ReqRecviveFrom.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="HOSPITALDataSet.xsc">
+      <DependentUpon>HOSPITALDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="HOSPITALDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HOSPITALDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HOSPITALDataSet.xss">
+      <DependentUpon>HOSPITALDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
